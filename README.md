@@ -1,16 +1,27 @@
-## Hi there 👋
+# Привіт! Я Ілля Кудрік 👋
 
-<!--
-**arenarush01-commits/arenarush01-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Про мене
+- 🏛️ Студент **ЧНУ ім. Юрія Федьковича** (Чернівецький національний університет)
+- 💻 Вивчаю інженерію програмного забезпечення та сучасні веб-технології
+- 🚀 Прагну розвиватися у сфері розробки програмного забезпечення та автоматизації процесів
 
-Here are some ideas to get you started:
+### 🛠️ Технологиї та інструменти
+<p align="left">
+  <img src="https://shields.io" alt="Java"/>
+  <img src="https://shields.io" alt="Python"/>
+  <img src="https://shields.io" alt="C++"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://shields.io" alt="Git"/>
+  <img src="https://shields.io" alt="GitHub"/>
+  <img src="https://shields.io" alt="HTML5"/>
+  <img src="https://shields.io" alt="CSS3"/>
+  <img src="https://shields.io" alt="VS Code"/>
+</p>
+
+### 📊 Моя статистика GitHub
+<p align="left">
+  <img src="https://vercel.app" alt="GitHub Stats" height="150"/>
+  <img src="https://vercel.app" alt="Top Langs" height="150"/>
+</p>
